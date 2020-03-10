@@ -4,6 +4,8 @@
 ## Website 1 = Sketch London 
 https://sketch.london
 
+![alt text](https://github.com/jananijayesh/DH150-Final/blob/master/Week%201/Screen%20Shot%202020-01-20%20at%2012.41.30%20AM.png)
+
 Description and Community I want to Contribute to: 
 
 Sketch London is a famed townhouse tearoom that attracts locals and tourists. Its award-winning menu and stylish interiors has made it one of the world's most famous collection of restaurants. I want to help put both locals and tourists in London who want to pay a visit to this dazzling venue and improve their overall experience and perception of Sketch. 
