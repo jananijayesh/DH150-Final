@@ -5,8 +5,7 @@
 The purpose of the UT was to highlight the how the design of the sketch London website is not minimalist and provides too many distractions that take away from the purpose of the site, doesn’t portray an accurate visual representation of what is in there, and prompts some uneasiness and forces users to recall some information, which were all found in the heuristic evaluation. 
 
 
-## Link to survey: 
-https://forms.gle/BDjtT8Q6dQsjfqaDA
+## Here is the [link] (https://forms.gle/BDjtT8Q6dQsjfqaDA) to my usability testing survey: 
 
 
 ## Link to UT testing video: 
