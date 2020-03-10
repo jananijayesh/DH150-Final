@@ -4,7 +4,7 @@
 ## Website 1 = Sketch London 
 https://sketch.london
 
-![alt text](https://github.com/jananijayesh/DH150-Final/blob/master/Week%201/Screen Shot 2020-02-18 at 10.09.01 AM.png)
+![alt text](https://github.com/jananijayesh/DH150-Final/blob/master/Week%201/Screen%20Shot%202020-02-18%20at%2010.09.01%20AM.png)
 
 
 Description and Community I want to Contribute to: 
