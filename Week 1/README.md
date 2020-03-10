@@ -69,7 +69,7 @@ Evaluation: The design of the page is not minimalist and provides too many distr
 ## Website 2 = Yale School of Arts
 https://www.art.yale.edu
 
-![alt text](https://github.com/jananijayesh/DH150-Final/blob/masterScreen Shot 2020-03-09 at 7.19.07 PM.png)
+![alt text](https://github.com/jananijayesh/DH150-Final/blob/master/Week%201/Screen%20Shot%202020-03-09%20at%207.19.07%20PM.png)
 
 Description and Community I want to Contribute to: 
 
