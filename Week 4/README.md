@@ -1,4 +1,4 @@
-# DH150-Observation-Study
+# DH150-Observation-Study and Contextual Inquiry
 
 
 ## The main design challenge: 
