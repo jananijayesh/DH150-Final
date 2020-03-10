@@ -4,7 +4,8 @@
 ## Website 1 = Sketch London 
 https://sketch.london
 
-![alt text](https://github.com/jananijayesh/DH150-Final/blob/master/Week%201/Screen%20Shot%202020-01-20%20at%2012.41.30%20AM.png)
+![alt text](https://github.com/jananijayesh/DH150-Final/blob/master/Week%201/Screen Shot 2020-02-18 at 10.09.01 AM.png)
+
 
 Description and Community I want to Contribute to: 
 
@@ -67,6 +68,8 @@ Evaluation: The design of the page is not minimalist and provides too many distr
 
 ## Website 2 = Yale School of Arts
 https://www.art.yale.edu
+
+![alt text](https://github.com/jananijayesh/DH150-Final/blob/masterScreen Shot 2020-03-09 at 7.19.07 PM.png)
 
 Description and Community I want to Contribute to: 
 
